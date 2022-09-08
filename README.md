@@ -9,6 +9,8 @@
 
 ## Command remembers
 
+### Lession 9
+
 - Open terminal command windows : Ctrl + Shift + `
 - npm init or yarn init --> will create package.json
 
@@ -22,3 +24,8 @@
 - git push -u origin master
 - done git
 - end git
+
+### lession 10
+
+- tsc --init
+- Reference : https://www.typescriptlang.org/tsconfig
