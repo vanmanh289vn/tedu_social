@@ -10,4 +10,8 @@
 ## Command remembers
 
 - Open terminal command windows : Ctrl + Shift + `
-- npm init or yarn init
+- npm init or yarn init --> will create package.json
+
+- git init --> create local repository
+- git add \*
+- git commit -m "Initial commit"
