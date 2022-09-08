@@ -29,3 +29,4 @@
 
 - tsc --init
 - Reference : https://www.typescriptlang.org/tsconfig
+- Chu y: Khi 1 file moi duoc tao, chi viec vao Source control tao message roi bam commit la da tu add vao repo local, sau do chi viec push len
