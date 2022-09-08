@@ -21,3 +21,4 @@
 - git remote add origin https://github.com/vanmanh289vn/tedu_social.git
 - git push -u origin master
 - done git
+- end git
